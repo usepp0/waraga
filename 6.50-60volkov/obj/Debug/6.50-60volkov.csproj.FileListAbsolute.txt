@@ -1,0 +1,5 @@
+C:\Users\student\source\repos\6.50-60volkov\6.50-60volkov\obj\Debug\6.50-60volkov.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\6.50-60volkov\6.50-60volkov\obj\Debug\_6._50_60volkov.Form1.resources
+C:\Users\student\source\repos\6.50-60volkov\6.50-60volkov\obj\Debug\_6._50_60volkov.Properties.Resources.resources
+C:\Users\student\source\repos\6.50-60volkov\6.50-60volkov\obj\Debug\6.50-60volkov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\6.50-60volkov\6.50-60volkov\obj\Debug\6.50-60volkov.csproj.CoreCompileInputs.cache
