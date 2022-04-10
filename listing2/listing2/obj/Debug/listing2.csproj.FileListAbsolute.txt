@@ -1,0 +1,14 @@
+E:\proektivisual\listing2\listing2\bin\Debug\listing2.exe.config
+E:\proektivisual\listing2\listing2\bin\Debug\listing2.exe
+E:\proektivisual\listing2\listing2\bin\Debug\listing2.pdb
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.csproj.AssemblyReference.cache
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.csproj.SuggestedBindingRedirects.cache
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.Form1.resources
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.Properties.Resources.resources
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.csproj.GenerateResource.cache
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.csproj.CoreCompileInputs.cache
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.exe
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.pdb
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.Form2.resources
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.Form3.resources
+E:\proektivisual\listing2\listing2\obj\Debug\listing2.Form4.resources
